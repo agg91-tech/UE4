@@ -1,7 +1,3 @@
-# Copyright 2023-2026 Ludovic Rousseau, TSSU
-# Distribuée sous licence CC BY-NC-ND 4.0 
-# Attribution-NonCommercial-NoDerivatives 4.0 International  
-# https://creativecommons.org/licenses/by-nc-nd/4.0/
 from math import *
 print("")
 print("Si on nous donne la puissance,si.on.veut")
